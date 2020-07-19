@@ -21,10 +21,6 @@ z-index: 1;
 background: #fff;
 transition: all .35s ease;
 }
-/* Card in main jumbotron */
-.jumbotron {
-  background-size: cover;
-}
 
 /* Card in main jumbotron */
 .welcome {
@@ -34,6 +30,10 @@ transition: all .35s ease;
 .welcome .card {
   font-weight: bold;
   opacity:1;
+}
+/* Text in Card in main jumbotron */
+.landing-about {
+  padding: 5%;
 }
 
 .min-100 {
