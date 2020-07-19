@@ -21,17 +21,20 @@ z-index: 1;
 background: #fff;
 transition: all .35s ease;
 }
-
-/* Smaller background Div of Wording */
-.col-6 {
-  padding: 3%;
-  background-color: #555;
-  opacity: .35;
-  font-weight: bold;
-  color: black;
-  text-align: center;
+/* Card in main jumbotron */
+.jumbotron {
+  background-size: cover;
 }
 
+/* Card in main jumbotron */
+.welcome {
+  opacity: .35;
+}
+/* Text in Card in main jumbotron */
+.welcome .card {
+  font-weight: bold;
+  opacity:1;
+}
 
 .min-100 {
   min-height: 100vh;
