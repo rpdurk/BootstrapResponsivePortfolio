@@ -7,16 +7,7 @@ body {
   position: relative;
 }
 
-.jumbotron {
-  background-image: url(../Images/pgbc.jpg);
-  background-size: cover;
-  height: 100%;
-}
-
-.min-100 {
-  min-height: 100vh;
-}
-
+/* Nav bar styling */
 .navbar.affix-top,
 .navbar.affix-bottom {
 position: static;
@@ -29,6 +20,21 @@ top: 0;
 z-index: 1;
 background: #fff;
 transition: all .35s ease;
+}
+
+/* Smaller background Div of Wording */
+.col-6 {
+  padding: 3%;
+  background-color: #555;
+  opacity: .35;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+
+.min-100 {
+  min-height: 100vh;
 }
 
 #sidemenu.affix-top, #sidemenu.affix {
