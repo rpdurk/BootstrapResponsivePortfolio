@@ -27,17 +27,27 @@ transition: all .35s ease;
   background-color: rgba(255, 255, 255, 0.5);
 }
 
-/* Text in Card in main jumbotron */
+/* height for jumbotron */
+.min-100 {
+  min-height: 100vh;
+}
+
+/* Preview section container style */
 .landing-about,
 .landing-portfolio,
 .landing-research,
 .landing-contact {
   padding: 10%;
 }
-/* height for jumbotron */
-.min-100 {
-  min-height: 100vh;
+
+/* Preview text card styling */
+.landing-about-me-text,
+.landing-portfolio-text,
+.landing-research,
+.landing-contact-text {
+  padding: 10%;
 }
+
 /* landing page images formatting */
 img {
   width: 100%;
