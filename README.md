@@ -14,9 +14,7 @@ URL of the GitHub repository: https://github.com/rpdurk/RyanDurkPortfolio
 
 * [Description](#description)
 * [View](#view)
-* [Usage](#usage)
-* [Built With](#built-with)
-* [Credits](#credits)
+* [Highlights](#highlights)
 * [License](#license)
 
 ## Description
