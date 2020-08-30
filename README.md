@@ -1,20 +1,42 @@
+<div align="center">
+
 # Ryan Durk's Portfolio
 
 This portfolio contains information about me.  Including, my background, research, and places I can be contacted. 
 
+URL of the deployed application: https://rpdurk.github.io/RyanDurkPortfolio/
 
-## Overview
+URL of the GitHub repository: https://github.com/rpdurk/RyanDurkPortfolio
 
-To see for yourself, go https://rpdurk.github.io/BootstrapResponsivePortfolio/:
+</div>
 
-* Additional Pages include:
+## Table of Contents 
 
-   * https://rpdurk.github.io/BootstrapResponsivePortfolio/about.html
+* [Description](#description)
+* [View](#view)
+* [Usage](#usage)
+* [Built With](#built-with)
+* [Credits](#credits)
+* [License](#license)
 
-   * https://rpdurk.github.io/BootstrapResponsivePortfolio/portfolio.html
+## Description
 
-   * https://rpdurk.github.io/BootstrapResponsivePortfolio/research.html
+>Come learn about me through this website hosting my portfolio.  Learn about my interests, professional work, research, and current projects.  If you want to continue the conversation, reach out!
 
-      *![image](./Images/LatestResearchScreenShot.png)
+This web page is being ran with a variety of programing languages including, HTML, CSS, and javascript.  The design uses Bootstrap's responsive front end framework. 
 
-   * https://rpdurk.github.io/BootstrapResponsivePortfolio/contact.html
+## View
+
+To learn more about me or see the website, you can click [here](https://rpdurk.github.io/RyanDurkPortfolio/).
+
+## Highlights
+
+In my portfolio I talk about:
+
+* Professional Career
+* Research
+* Projects
+
+## License 
+
+MIT License Copyright (c) 2020  Ryan Durk
