@@ -35,6 +35,8 @@ In my portfolio I talk about:
 * Research
 * Projects
 
+  ![HomePage](./Images/homepage.png)
+
 ## License 
 
 MIT License Copyright (c) 2020  Ryan Durk
